@@ -32,20 +32,21 @@ Program usage:
 To run program type "./Mandelbrot"
 
 
-Program error codes:
-"-1"  - pipe().
-"-2"  - msgget().
-"-3"  - shmget().
-"-4"  - close().
-"-5"  - dup2().
-"-6"  - execvp().
-"-7"  - fork().
-"-8"  - kill().
-"-9"  - msgsnd().
-"-10" - msgrcv().
-"-11" - shmat().
-"-14" - Ctrl-C handler.
-"-15" - One of the child exited with error.
+Program error codes:  
+"-1"  - pipe().  
+"-2"  - msgget().  
+"-3"  - shmget().  
+"-4"  - close().  
+"-5"  - dup2().  
+"-6"  - execvp().  
+"-7"  - fork().  
+"-8"  - kill().  
+"-9"  - msgsnd().  
+"-10" - msgrcv().  
+"-11" - shmat().  
+"-14" - Ctrl-C handler.  
+"-15" - One of the child exited with error.  
+
 
 
 
